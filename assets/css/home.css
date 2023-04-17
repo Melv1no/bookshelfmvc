@@ -1,0 +1,9 @@
+.square-btn {
+    width: 300px;
+    height: 300px;
+    border-radius: 10% !important;
+    margin: 150px;
+}
+.x{
+    font-size: 50px !important;
+}
